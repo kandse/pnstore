@@ -1,0 +1,2 @@
+# pnstore
+pnstore ch auto
